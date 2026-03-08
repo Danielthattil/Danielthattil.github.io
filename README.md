@@ -35,23 +35,20 @@ My interests include mechanical design, product development, and industrial engi
 
 ## Technical Skills
 
-CAD & Design
-- SolidWorks
-- CATIA
+### CAD & Design
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red)
+![CATIA](https://img.shields.io/badge/CATIA-3D%20Design-blue)
 
-Simulation
-- ANSYS Workbench
+### Simulation
+![ANSYS](https://img.shields.io/badge/ANSYS-Engineering%20Simulation-yellow)
 
-Engineering Tools
-- MS Excel
-- MS Word
-- PowerPoint
+### Engineering Tools
+![Excel](https://img.shields.io/badge/MS%20Excel-Data%20Analysis-green)
+![Word](https://img.shields.io/badge/MS%20Word-Documentation-blue)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentations-orange)
 
-Engineering Areas
-- Mechanical Design
-- Manufacturing Processes
-- Engineering Calculations
-
+### Engineering Areas
+Mechanical Design | Manufacturing Processes | Engineering Calculations
 ---
 
 ## Internship Experience
