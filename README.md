@@ -11,6 +11,18 @@ Christ College of Engineering, Irinjalakuda
 
 ---
 
+## Navigation
+
+- [About Me](#About-me)
+- [Internship Experience](#Internship-Experience)
+- [Projects](#Projects)
+- [Technical Skills](#Technical-skills)
+- [Certifications](#Certifications)
+- [Leadership](#Leadership)
+- [Contact](#Contact)
+
+---
+
 ## About Me
 
 Mechanical Engineering student with internship experience in automotive systems, manufacturing, and defense research.
@@ -83,6 +95,7 @@ Steel and Industrial Forgings Ltd., Kerala | Jun 2025
 ### Cellphone Signal Detector
 - Built an RF detection circuit capable of identifying nearby mobile signal transmissions.
 - Demonstrated understanding of basic electronics and signal detection.
+
 ---
 
 ## Certifications
