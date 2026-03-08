@@ -152,14 +152,6 @@ Event Coordinator – MEXTALK 3.0
 
 ---
 
-## GitHub Stats
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielthattil&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielthattil&layout=compact)
-
----
-
 ## Contact
 
 Email: danieldthattil@gmail.com  
