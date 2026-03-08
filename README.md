@@ -102,8 +102,7 @@ Event Coordinator – MEXTALK 3.0
 
 ## Resume
 
-[Download My Resume](DANIEL DAVIS THATTIL RESUME.pdf)
-
+[Download Resume](https://github.com/Danielthattil/Danielthattil.github.io/raw/main/DANIEL%20DAVIS%20THATTIL%20RESUME.pdf)
 ---
 
 ## Contact
