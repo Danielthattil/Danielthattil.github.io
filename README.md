@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%">
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1F75FE&center=true&vCenter=true&width=600&lines=Daniel+Davis+Thattil;Mechanical+Engineering+Student;CAD+%7C+Design+%7C+Manufacturing+Enthusiast">
 </p>
@@ -141,6 +143,14 @@ Event Coordinator – MEXTALK 3.0
 ## Resume
 
 [Download Resume](https://github.com/Danielthattil/Danielthattil.github.io/raw/main/DANIEL%20DAVIS%20THATTIL%20RESUME.pdf)
+
+---
+
+## GitHub Stats
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielthattil&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielthattil&layout=compact)
 
 ---
 
