@@ -134,7 +134,7 @@ Event Coordinator – MEXTALK 3.0
 
 Email: danieldthattil@gmail.com  
 Phone: +91 9745604030  
-LinkedIn: linkedin.com/in/danieldavisthattil
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Davis%20Thattill-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danieldavisthattil)
 Location: Thrissur, Kerala, India
 
 ---
