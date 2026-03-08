@@ -1,4 +1,10 @@
-<img src="banner.png" width="100%">
+<p align="center">
+  <img src="banner.png" width="100%" style="border-radius:12px;">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=80&section=header"/>
+
+<h1 align="center">Daniel Davis Thattil</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1F75FE&center=true&vCenter=true&width=600&lines=Daniel+Davis+Thattil;Mechanical+Engineering+Student;CAD+%7C+Design+%7C+Manufacturing+Enthusiast">
