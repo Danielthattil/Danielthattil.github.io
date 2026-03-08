@@ -1,5 +1,7 @@
 # Daniel Davis Thattill
 
+<img src="Daniel Photo.jpg" width="200">
+
 Mechanical Engineering Undergraduate  
 Christ College of Engineering, Irinjalakuda
 
