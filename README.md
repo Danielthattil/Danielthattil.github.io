@@ -122,6 +122,7 @@ Event Coordinator – MEXTALK 3.0
 ## Resume
 
 [Download Resume](https://github.com/Danielthattil/Danielthattil.github.io/raw/main/DANIEL%20DAVIS%20THATTIL%20RESUME.pdf)
+
 ---
 
 ## Contact
@@ -130,3 +131,5 @@ Email: danieldthattil@gmail.com
 Phone: +91 9745604030  
 LinkedIn: linkedin.com/in/danieldavisthattil
 Location: Thrissur, Kerala, India
+
+---
