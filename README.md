@@ -1,17 +1,23 @@
-# Daniel Davis Thattil
+# Daniel Davis Thattill
 
-Mechanical Engineering Student  
+Mechanical Engineering Undergraduate  
 Christ College of Engineering, Irinjalakuda
+
+📍 Thrissur, Kerala, India  
+📧 danieldthattil@gmail.com  
+📞 +91 9745604030  
+
+[Download Resume](https://github.com/Danielthattil/Danielthattil.github.io/raw/main/DANIEL%20DAVIS%20THATTIL%20RESUME.pdf)
 
 ---
 
 ## About Me
 
-Mechanical Engineering undergraduate from Christ College of Engineering, Irinjalakuda with internship experience across defense, automotive, and heavy manufacturing sectors.
+Mechanical Engineering student with internship experience in automotive systems, manufacturing, and defense research.
 
-I have practical exposure to mechanical design, manufacturing systems, and engineering analysis through internships at DRDO–VRDE, Suprajit Automotive Ltd., and Steel and Industrial Forgings Ltd.
+I have worked with engineering teams at DRDO-VRDE, Suprajit Automotive Ltd., and Steel and Industrial Forgings Ltd., gaining exposure to mechanical design, manufacturing processes, and engineering analysis.
 
-My primary interests include mechanical design, product development, and industrial engineering. I enjoy solving real-world engineering problems using CAD tools and analytical modeling.
+My interests include mechanical design, product development, and industrial engineering.
 
 ## Technical Skills
 
