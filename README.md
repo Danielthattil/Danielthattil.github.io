@@ -4,18 +4,32 @@
 
 ---
 
-# Daniel Davis Thattil
+![Visitors](https://komarev.com/ghpvc/?username=Danielthattil&color=blue)
 
+---
+
+<h1 align="center">Daniel Davis Thattil</h1>
+
+<p align="center">
 <img src="Daniel Photo.jpg" width="200">
+</p>
 
-Mechanical Engineering Undergraduate  
+<p align="center">
+Mechanical Engineering Undergraduate <br>
 Christ College of Engineering, Irinjalakuda
+</p>
 
-📍 Thrissur, Kerala, India  
-📧 danieldthattil@gmail.com  
-📞 +91 9745604030  
+<p align="center">
+📍 Thrissur, Kerala, India <br>
+📧 danieldthattil@gmail.com <br>
+📞 +91 9745604030
+</p>
 
-[Download Resume](https://github.com/Danielthattil/Danielthattil.github.io/raw/main/DANIEL%20DAVIS%20THATTIL%20RESUME.pdf)
+<p align="center">
+<a href="https://github.com/Danielthattil/Danielthattil.github.io/raw/main/DANIEL%20DAVIS%20THATTIL%20RESUME.pdf">
+Download Resume
+</a>
+</p>
 
 ---
 
