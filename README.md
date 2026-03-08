@@ -7,7 +7,7 @@ Christ College of Engineering, Irinjalakuda
 
 ## Resume
 
-[Download My Resume](DANIEL DAVIS THATTIL.pdf)
+[Download My Resume](DANIEL DAVIS THATTIL RESUME.pdf)
 
 ## Skills
 - CATIA
