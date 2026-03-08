@@ -7,7 +7,7 @@
 <h1 align="center">Daniel Davis Thattil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1F75FE&center=true&vCenter=true&width=600&lines=Daniel+Davis+Thattil;Mechanical+Engineering+Student;CAD Design+%7C+Manufacturing+Enthusiast">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1F75FE&center=true&vCenter=true&width=600&lines=Daniel+Davis+Thattil;Mechanical+Engineering+Student;CAD_Design+%7C+Manufacturing+Enthusiast">
 </p>
 
 ---
