@@ -13,13 +13,13 @@ Christ College of Engineering, Irinjalakuda
 
 ## Navigation
 
-- [About Me](##About-me)
-- [Internship Experience](##Internship-Experience)
-- [Projects](##Projects)
-- [Technical Skills](##Technical-skills)
-- [Certifications](##Certifications)
-- [Leadership](##Leadership)
-- [Contact](##Contact)
+- [About Me](#about-me)
+- [Internship Experience](#internship-experience)
+- [Projects](#projects)
+- [Technical Skills](#technical-skills)
+- [Certifications](#certifications)
+- [Leadership](#leadership)
+- [Contact](#contact)
 
 ---
 
